@@ -1,1 +1,1 @@
-A Data-Driven Approach to Energy Forecasting, Anomaly Monitoring and Optimization..
+A Data-Driven Approach to Energy Forecasting, Anomaly Monitoring and Optimization.
